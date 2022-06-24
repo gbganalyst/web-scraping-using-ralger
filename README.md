@@ -1,3 +1,5 @@
-# Data-Analysis-Visualization
+# Web scraping using ralger package
 
-This tutorial teaches how to chain functions using pipe operator (`%>%`), data manipulation with dplyr package, and data visualization with ggplot2 package. The material assumes that you are a beginner and you are ready to learn R.
+Scraping a website is simple with the ralger R package. Its strength is derived from the rvest and xml2 packages.
+
+This material assumes that you are a beginner at web scraping and can conveniently use the tidyverse suite of packages.
